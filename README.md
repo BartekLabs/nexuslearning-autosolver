@@ -2,6 +2,7 @@
 > **DJ Haszi** megrendelésére készült projekt.
 
 Egy intelligens képernyőolvasó segédprogram, amely a Google Gemini AI segítségével automatikusan felismeri és megoldja a Nexius feladatokat, majd beírja a végeredményt.   
+<br>
 <img width="374" height="445" alt="image" src="https://github.com/user-attachments/assets/85eea763-8050-4e4a-b58c-84dbb0743628" />
 
 ---
